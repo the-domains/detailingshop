@@ -1,7 +1,7 @@
 name: DetailingShop
 favicon: null
-layout_spectrum: 0.9073271916713566
-typography_spectrum: 0.5059798660222441
+layout_spectrum: 0.24876
+typography_spectrum: 0.90592
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#000000'
     - '#c2146d'
     - '#d5bf15'
-  brandStrength: 0
+  brandStrength: 0.8125
   lightness: 0.030382476281374693
   saturation: 0.6875
   rhythmicContrast: 0.93361526587978
